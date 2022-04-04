@@ -238,9 +238,6 @@ nav {
 .intro {
   position: relative;
 }
-.intro__img {
-  box-shadow: var(--bs);
-}
 
 @media (min-width: 600px) {
   .intro {
@@ -322,9 +319,6 @@ nav {
 .about-me {
   max-width: 1000px;
   margin: 0 auto;
-}
-.about-me__img {
-  box-shadow: var(--bs);
 }
 @media (min-width: 600px) {
   .about-me {
